@@ -54,7 +54,7 @@ mà chúng tôi áp dụng trong các dự án của mình:
 -   **Go**: Go (Golang) là một ngôn ngữ lập trình được phát triển bởi Google, rất thích hợp cho việc xây dựng các hệ thống backend hiệu suất cao, dễ
     mở rộng và có khả năng xử lý đồng thời tốt.
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 -   **Server, VPS**: Các giải pháp như server và VPS (Virtual Private Server) giúp lưu trữ ứng dụng của bạn trên các máy chủ độc lập, mang lại sự linh
     hoạt và khả năng kiểm soát tốt hơn so với hosting truyền thống.
@@ -62,7 +62,7 @@ mà chúng tôi áp dụng trong các dự án của mình:
     khai, mở rộng và quản lý ứng dụng một cách dễ dàng. Các công ty có thể tận dụng các dịch vụ như lưu trữ, cơ sở dữ liệu, tính toán, và mạng để tăng
     cường khả năng mở rộng và bảo mật.
 
-### DevOps
+### 🚀 DevOps
 
 -   **CI/CD (Continuous Integration/Continuous Deployment)**: CI/CD là các phương pháp giúp tự động hóa quy trình kiểm tra, tích hợp và triển khai
     phần mềm. Điều này đảm bảo phần mềm được kiểm tra và triển khai nhanh chóng, giảm thiểu lỗi và thời gian chờ đợi. Với CI/CD, chúng tôi có thể tự
@@ -72,17 +72,6 @@ mà chúng tôi áp dụng trong các dự án của mình:
 
 -   **AI xử lý ảnh**: Chúng tôi sử dụng trí tuệ nhân tạo (AI) để xử lý và phân tích hình ảnh, giúp ứng dụng nhận diện và phân loại các đối tượng trong
     hình ảnh hoặc video. Các ứng dụng này có thể được sử dụng trong các lĩnh vực như y tế, nhận diện khuôn mặt, và giao thông thông minh.
-
-### Lợi Ích Khi Sử Dụng Các Công Nghệ Này
-
--   **Tối ưu hóa hiệu suất**: Các công nghệ hiện đại mà chúng tôi sử dụng giúp tạo ra các ứng dụng nhanh chóng và mượt mà, mang lại trải nghiệm người
-    dùng tốt nhất.
--   **Dễ bảo trì và mở rộng**: Các framework như Vue.js, React.js và Node.js giúp mã nguồn dễ bảo trì và mở rộng, cho phép ứng dụng phát triển nhanh
-    chóng mà không lo gặp vấn đề khi mở rộng quy mô.
--   **Tiết kiệm chi phí và thời gian**: Việc sử dụng các công nghệ như React Native, Flutter và CI/CD giúp giảm thiểu thời gian phát triển và chi phí
-    bảo trì, đồng thời đảm bảo chất lượng cao.
--   **Khả năng mở rộng mạnh mẽ**: Các giải pháp trên cloud như AWS và Google Cloud giúp chúng tôi triển khai các ứng dụng có khả năng mở rộng linh
-    hoạt và đáp ứng nhanh chóng với nhu cầu của khách hàng.
 
 ## Các Dự Án Mở
 
