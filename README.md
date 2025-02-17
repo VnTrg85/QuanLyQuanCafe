@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://business.sucodev.net/_nuxt/img/FooterLogo.a9c1783.png" alt="Sucodev Logo" width="300" object-fit="cover" /> </p><h1 align="center">Sucodev - Phần mềm chất lượng, giải pháp tối ưu</h1><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=3000&pause=1000&color=006837&center=true&vCenter=true&width=600&lines=Chào+mừng+bạn+đến+với+Sucodev!;Support - Collaboration - Develop" alt="Typing Animation" /> </p>
+<p align="center"> <img src="https://business.sucodev.net/_nuxt/img/FooterLogo.a9c1783.png" alt="Sucodev Logo" width="300"/> </p><h1 align="center">Sucodev - Phần mềm chất lượng, giải pháp tối ưu</h1><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Chào+mừng+bạn+đến+với+Sucodev!;Innovating+the+Future%2C+One+Line+of+Code+at+a+Time" alt="Typing Animation" /> </p><p align="center"> <img src="https://assets10.lottiefiles.com/packages/lf20_abc123.json" alt="Lottie Animation" width="400"/> </p>
 
 ## Giới Thiệu
 
