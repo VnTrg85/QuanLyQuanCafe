@@ -1,7 +1,4 @@
 <p align="center"> <img src="https://business.sucodev.net/_nuxt/img/FooterLogo.a9c1783.png" alt="Sucodev Logo" width="300"/> </p><h1 align="center">Sucodev - Phần mềm chất lượng, giải pháp tối ưu</h1><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Chào+mừng+bạn+đến+với+Sucodev!;Support - Collaboration - Develop" alt="Typing Animation" /> </p>
-🚀 Giới thiệu về Sucodev
-Sucodev là công ty phát triển phần mềm hàng đầu, chuyên cung cấp các giải pháp công nghệ hiện đại và tối ưu cho doanh nghiệp và cá nhân. Với đội ngũ chuyên gia giàu kinh nghiệm, chúng tôi cam kết mang đến những sản phẩm chất lượng cao, tối ưu hóa hiệu suất và trải nghiệm người dùng.
-
 <p align="center"> <img src="https://github.com/your-repo/your-image.gif" alt="Sucodev Animation" width="500"/> </p>
 
 ## Giới Thiệu
