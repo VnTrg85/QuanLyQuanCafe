@@ -1,4 +1,5 @@
-# ![Sucodev Logo](https://business.sucodev.net/_nuxt/img/FooterLogo.a9c1783.png) Sucodev - Phát Triển Phần Mềm Chuyên Nghiệp
+![Sucodev Logo](https://business.sucodev.net/_nuxt/img/FooterLogo.a9c1783.png) 
+# Sucodev - Phát Triển Phần Mềm Chuyên Nghiệp
 
 ## Giới Thiệu
 
@@ -19,7 +20,7 @@ các dịch vụ phát triển phần mềm với nhiều công nghệ hiện đ
 **Sucodev** sử dụng một loạt các công nghệ tiên tiến và mạnh mẽ để cung cấp các giải pháp phần mềm tối ưu. Dưới đây là mô tả chi tiết về các công nghệ
 mà chúng tôi áp dụng trong các dự án của mình:
 
-###🌐 Frontend Development
+### 🌐 Frontend Development
 
 -   **HTML, CSS, JavaScript, TypeScript**: Đây là nền tảng cơ bản cho việc phát triển giao diện web. HTML cung cấp cấu trúc cho trang web, CSS để tạo
     kiểu dáng và JavaScript/TypeScript để tạo ra các tương tác động. TypeScript giúp cải thiện chất lượng mã nguồn với tính năng kiểm tra kiểu dữ liệu
@@ -35,7 +36,7 @@ mà chúng tôi áp dụng trong các dự án của mình:
 -   **Tailwind CSS**: Đây là một framework CSS tiện dụng, giúp phát triển giao diện người dùng nhanh chóng và linh hoạt bằng cách sử dụng các lớp tiện
     ích.
 
-###📱 Mobile Development
+### 📱 Mobile Development
 
 -   **React Native**: Dựa trên React, React Native cho phép phát triển các ứng dụng di động cho cả iOS và Android từ một cơ sở mã nguồn chung. Điều
     này giúp tiết kiệm thời gian và chi phí phát triển.
@@ -45,7 +46,7 @@ mà chúng tôi áp dụng trong các dự án của mình:
 -   **Kotlin (Android)**: Kotlin là một ngôn ngữ chính thức của Android, được thiết kế để thay thế Java, giúp tăng tốc độ phát triển và giảm thiểu lỗi
     trong ứng dụng Android.
 
-###💻 Backend Development
+### 💻 Backend Development
 
 -   **Java**: Java là ngôn ngữ lập trình phổ biến cho việc phát triển các ứng dụng doanh nghiệp quy mô lớn và hệ thống backend mạnh mẽ. Với khả năng
     tương thích đa nền tảng, Java là sự lựa chọn hàng đầu cho các hệ thống phân tán.
@@ -68,7 +69,7 @@ mà chúng tôi áp dụng trong các dự án của mình:
     phần mềm. Điều này đảm bảo phần mềm được kiểm tra và triển khai nhanh chóng, giảm thiểu lỗi và thời gian chờ đợi. Với CI/CD, chúng tôi có thể tự
     động hóa các tác vụ phát triển, từ việc xây dựng mã nguồn đến việc triển khai lên môi trường sản xuất.
 
-###🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 -   **AI xử lý ảnh**: Chúng tôi sử dụng trí tuệ nhân tạo (AI) để xử lý và phân tích hình ảnh, giúp ứng dụng nhận diện và phân loại các đối tượng trong
     hình ảnh hoặc video. Các ứng dụng này có thể được sử dụng trong các lĩnh vực như y tế, nhận diện khuôn mặt, và giao thông thông minh.
