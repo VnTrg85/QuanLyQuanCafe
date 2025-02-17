@@ -1,11 +1,10 @@
 <p align="center"> <img src="https://business.sucodev.net/_nuxt/img/FooterLogo.a9c1783.png" alt="Sucodev Logo" width="300" object-fit="cover" /> </p><h1 align="center">Sucodev - Phần mềm chất lượng, giải pháp tối ưu</h1><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=3000&pause=1000&color=006837&center=true&vCenter=true&width=600&lines=Chào+mừng+bạn+đến+với+Sucodev!;Support - Collaboration - Develop" alt="Typing Animation" /> </p>
 
-## Giới Thiệu
+## Introduce
 
-Chào mừng bạn đến với trang GitHub chính thức của **Sucodev** – công ty phần mềm chuyên cung cấp các giải pháp công nghệ tiên tiến. Chúng tôi cung cấp
-các dịch vụ phát triển phần mềm với nhiều công nghệ hiện đại và sáng tạo, nhằm mang lại sự tối ưu cho mọi dự án của bạn.
+Welcome to the official GitHub page of **Sucodev** – a software company specializing in providing advanced technology solutions. We provide software development services with many modern and innovative technologies, to bring optimization to all your projects.
 
-### Chúng Tôi Cung Cấp Các Giải Pháp:
+### We Provide Solutions:
 
 -   **Frontend Development**: HTML, CSS, JavaScript, TypeScript, Vue.js 2 & 3, Nuxt.js, React.js, Shopify, WordPress, Tailwind CSS
 -   **Mobile App Development**: React Native, Flutter, Swift, Kotlin
@@ -14,111 +13,101 @@ các dịch vụ phát triển phần mềm với nhiều công nghệ hiện đ
 -   **CI/CD**: Auto Deploys
 -   **AI**: Xử lý ảnh và các ứng dụng trí tuệ nhân tạo khác
 
-## Các Công Nghệ Chúng Tôi Sử Dụng
+## Technologies We Use
 
-**Sucodev** sử dụng một loạt các công nghệ tiên tiến và mạnh mẽ để cung cấp các giải pháp phần mềm tối ưu. Dưới đây là mô tả chi tiết về các công nghệ
-mà chúng tôi áp dụng trong các dự án của mình:
+**Sucodev** uses a range of advanced and powerful technologies to deliver optimal software solutions. Below is a detailed description of the technologies
+that we apply in our projects:
 
 ### 🌐 Frontend Development
 
--   **HTML, CSS, JavaScript, TypeScript**: Đây là nền tảng cơ bản cho việc phát triển giao diện web. HTML cung cấp cấu trúc cho trang web, CSS để tạo
-    kiểu dáng và JavaScript/TypeScript để tạo ra các tương tác động. TypeScript giúp cải thiện chất lượng mã nguồn với tính năng kiểm tra kiểu dữ liệu
-    tĩnh.
--   **Vue.js 2 & 3**: Vue.js là một framework JavaScript mạnh mẽ và linh hoạt, giúp phát triển các ứng dụng web động với tính dễ sử dụng và tối ưu hóa
-    hiệu suất.
+-   **HTML, CSS, JavaScript, TypeScript**: This is the basic foundation for developing web interfaces. HTML provides the structure for the web page, CSS for styling, and JavaScript/TypeScript for dynamic interactions. TypeScript helps improve the quality of source code with static data type checking.
+-   **Vue.js 2 & 3**:Vue.js is a powerful and flexible JavaScript framework that helps develop dynamic web applications with ease of use and optimized performance.
 -   **Nuxt.js**: Là một framework dựa trên Vue.js, Nuxt.js giúp xây dựng các ứng dụng SSR (Server-Side Rendering) một cách dễ dàng và tối ưu hóa hiệu
     suất tải trang.
--   **React.js**: React.js là một thư viện JavaScript phổ biến cho việc xây dựng các giao diện người dùng tương tác, giúp phát triển các ứng dụng web
-    nhanh chóng và dễ bảo trì.
--   **Shopify, WordPress**: Các nền tảng này giúp xây dựng các cửa hàng trực tuyến (Shopify) và trang web quản lý nội dung (WordPress) một cách hiệu
-    quả và dễ dàng.
--   **Tailwind CSS**: Đây là một framework CSS tiện dụng, giúp phát triển giao diện người dùng nhanh chóng và linh hoạt bằng cách sử dụng các lớp tiện
-    ích.
-
+-   **React.js**: React.js is a popular JavaScript library for building interactive user interfaces, making web applications fast and easy to maintain.
+-   **Shopify, WordPress**:These platforms make it easy and efficient to build online stores (Shopify) and content management websites (WordPress).
+-   **Tailwind CSS**:This is a handy CSS framework that helps develop fast and flexible user interfaces using utility classes.
 ### 📱 Mobile Development
 
--   **React Native**: Dựa trên React, React Native cho phép phát triển các ứng dụng di động cho cả iOS và Android từ một cơ sở mã nguồn chung. Điều
-    này giúp tiết kiệm thời gian và chi phí phát triển.
--   **Flutter**: Flutter là một framework của Google giúp phát triển ứng dụng di động với hiệu suất cao và giao diện mượt mà trên cả Android và iOS.
--   **Swift (iOS)**: Swift là ngôn ngữ phát triển chính thức của Apple cho các ứng dụng di động trên hệ điều hành iOS, giúp xây dựng các ứng dụng hiệu
-    quả và mạnh mẽ.
--   **Kotlin (Android)**: Kotlin là một ngôn ngữ chính thức của Android, được thiết kế để thay thế Java, giúp tăng tốc độ phát triển và giảm thiểu lỗi
-    trong ứng dụng Android.
+-  **React Native**: Based on React, React Native allows developing mobile applications for both iOS and Android from a common source code base. This
+
+helps save time and development costs.
+
+- **Flutter**: Flutter is a framework by Google that helps develop mobile applications with high performance and smooth interfaces on both Android and iOS.
+
+- **Swift (iOS)**: Swift is Apple's official development language for mobile applications on the iOS operating system, helping to build efficient and powerful applications.
+
+- **Kotlin (Android)**: Kotlin is an official language of Android, designed to replace Java, helping to speed up development and reduce errors
+
+in Android applications.
 
 ### 💻 Backend Development
 
--   **Java**: Java là ngôn ngữ lập trình phổ biến cho việc phát triển các ứng dụng doanh nghiệp quy mô lớn và hệ thống backend mạnh mẽ. Với khả năng
-    tương thích đa nền tảng, Java là sự lựa chọn hàng đầu cho các hệ thống phân tán.
--   **Node.js**: Node.js là môi trường runtime JavaScript giúp xây dựng các ứng dụng backend nhanh chóng và hiệu quả, đặc biệt là các API và hệ thống
-    mạng quy mô lớn.
--   **Go**: Go (Golang) là một ngôn ngữ lập trình được phát triển bởi Google, rất thích hợp cho việc xây dựng các hệ thống backend hiệu suất cao, dễ
-    mở rộng và có khả năng xử lý đồng thời tốt.
+-   **Java**: Java is a popular programming language for developing large-scale enterprise applications and powerful backend systems. With its cross-platform compatibility, Java is the top choice for distributed systems.
+
+- **Node.js**: Node.js is a JavaScript runtime environment that helps build backend applications quickly and efficiently, especially APIs and large-scale network systems.
+
+- **Go**: Go (Golang) is a programming language developed by Google, which is very suitable for building high-performance, scalable, and concurrent backend systems.
 
 ### ☁️ Cloud & Infrastructure
 
--   **Server, VPS**: Các giải pháp như server và VPS (Virtual Private Server) giúp lưu trữ ứng dụng của bạn trên các máy chủ độc lập, mang lại sự linh
-    hoạt và khả năng kiểm soát tốt hơn so với hosting truyền thống.
--   **Google Cloud, AWS**: Các nền tảng cloud phổ biến như Google Cloud và AWS (Amazon Web Services) cung cấp các dịch vụ điện toán đám mây giúp triển
-    khai, mở rộng và quản lý ứng dụng một cách dễ dàng. Các công ty có thể tận dụng các dịch vụ như lưu trữ, cơ sở dữ liệu, tính toán, và mạng để tăng
-    cường khả năng mở rộng và bảo mật.
+-   **Server, VPS**: Solutions like server and VPS (Virtual Private Server) help host your applications on independent servers, providing greater flexibility and control than traditional hosting.
+
+- **Google Cloud, AWS**: Popular cloud platforms like Google Cloud and AWS (Amazon Web Services) provide cloud computing services that make it easy to deploy, scale, and manage applications. Companies can leverage services like storage, database, compute, and networking to increase
+scalability and security.
 
 ### 🚀 DevOps
 
--   **CI/CD (Continuous Integration/Continuous Deployment)**: CI/CD là các phương pháp giúp tự động hóa quy trình kiểm tra, tích hợp và triển khai
-    phần mềm. Điều này đảm bảo phần mềm được kiểm tra và triển khai nhanh chóng, giảm thiểu lỗi và thời gian chờ đợi. Với CI/CD, chúng tôi có thể tự
-    động hóa các tác vụ phát triển, từ việc xây dựng mã nguồn đến việc triển khai lên môi trường sản xuất.
+-   **CI/CD (Continuous Integration/Continuous Deployment)**: CI/CD is a methodology that automates the process of testing, integrating, and deploying software. This ensures that software is tested and deployed quickly, minimizing errors and waiting times. With CI/CD, we can automate development tasks, from building source code to deploying to production.
 
 ### 🤖 AI & Machine Learning
 
--   **AI xử lý ảnh**: Chúng tôi sử dụng trí tuệ nhân tạo (AI) để xử lý và phân tích hình ảnh, giúp ứng dụng nhận diện và phân loại các đối tượng trong
-    hình ảnh hoặc video. Các ứng dụng này có thể được sử dụng trong các lĩnh vực như y tế, nhận diện khuôn mặt, và giao thông thông minh.
+- **AI image processing**: We use artificial intelligence (AI) to process and analyze images, helping applications recognize and classify objects in images or videos. These applications can be used in areas such as healthcare, facial recognition, and smart transportation.
+## Open Projects
 
-## Các Dự Án Mở
+At **Sucodev**, we always encourage the community to contribute to our projects. All open source projects are shared here. You can
+explore, learn, and join us in building groundbreaking software applications.
 
-Tại **Sucodev**, chúng tôi luôn khuyến khích cộng đồng đóng góp vào các dự án của mình. Tất cả các dự án mã nguồn mở đều được chia sẻ tại đây. Bạn có
-thể khám phá, học hỏi, và tham gia cùng chúng tôi để xây dựng các ứng dụng phần mềm đột phá.
+## Installation
 
-## Cài Đặt
+To get started, you can clone this repo to your personal computer and run some examples. Make sure you have the necessary tools
+installed such as:
 
-Để bắt đầu, bạn có thể clone repo này về máy tính cá nhân của mình và chạy thử một số ví dụ. Hãy chắc chắn rằng bạn đã cài đặt các công cụ cần thiết
-như:
+1. Node.js: [Install Node.js](https://nodejs.org/)
+2. npm or yarn: [Install Yarn](https://classic.yarnpkg.com/en/docs/install/)
+   
+### Project Setup
 
-1. Node.js: [Cài đặt Node.js](https://nodejs.org/)
-2. npm hoặc yarn: [Cài đặt Yarn](https://classic.yarnpkg.com/en/docs/install/)
+1. Clone this repository:
 
-### Cài Đặt Dự Án
+```bash
+git clone https://github.com/sucodev/your-project.git
+```
 
-1. Clone repository này:
+2. Install dependencies:
 
-    ```bash
-    git clone https://github.com/sucodev/your-project.git
-    ```
+```bash
+cd your-project
+npm install
+```
 
-2. Cài đặt các dependencies:
+3. Run the application:
+```bash
+npm run dev
+```
 
-    ```bash
-    cd your-project
-    npm install
-    ```
+## Contact
 
-3. Chạy ứng dụng:
-    ```bash
-    npm run dev
-    ```
+- Website: [https://business.sucodev.net/](https://business.sucodev.net/)
+- Email: contact@sucodev.net
+- Phone: +84 123 456 789
 
-## Liên Hệ
+## Join Us
 
--   Website: [https://business.sucodev.net/](https://business.sucodev.net/)
--   Email: contact@sucodev.net
--   Phone: +84 123 456 789
+We always welcome community participation and contributions to our open projects. If you have any ideas or suggestions, please do not hesitate to open an
+issue or pull request!
 
-## Tham Gia Cùng Chúng Tôi
-
-Chúng tôi luôn hoan nghênh sự tham gia và đóng góp của cộng đồng vào các dự án mở của chúng tôi. Nếu bạn có ý tưởng hoặc góp ý, đừng ngần ngại mở
-issue hoặc pull request!
-
-Cảm ơn bạn đã ghé thăm GitHub của **Sucodev**. Chúng tôi hy vọng bạn sẽ tìm thấy những gì mình cần và cùng chúng tôi xây dựng các giải pháp phần mềm
-sáng tạo!
+Thank you for visiting **Sucodev**'s GitHub. We hope you will find what you need and build innovative software solutions with us!
 
 ---
 
