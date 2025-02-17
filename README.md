@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://business.sucodev.net/_nuxt/img/FooterLogo.a9c1783.png" alt="Sucodev Logo" width="300"/> </p><h1 align="center">Sucodev - Phần mềm chất lượng, giải pháp tối ưu</h1><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Chào+mừng+bạn+đến+với+Sucodev!;Support - Collaboration - Develop" alt="Typing Animation" /> </p>
+<p align="center"> <img src="https://business.sucodev.net/_nuxt/img/FooterLogo.a9c1783.png" alt="Sucodev Logo" width="800"/> </p><h1 align="center">Sucodev - Phần mềm chất lượng, giải pháp tối ưu</h1><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Chào+mừng+bạn+đến+với+Sucodev!;Support - Collaboration - Develop" alt="Typing Animation" /> </p>
 
 ## Giới Thiệu
 
