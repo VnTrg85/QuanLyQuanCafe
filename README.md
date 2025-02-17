@@ -20,7 +20,7 @@ that we apply in our projects:
 
 ### 🌐 Frontend Development
 
--   **HTML, CSS, JavaScript, TypeScript**: This is the basic foundation for developing web interfaces. HTML provides the structure for the web page, CSS for styling, and JavaScript/TypeScript for dynamic interactions. TypeScript helps improve the quality of source code with static data type checking.
+-   **HTML, CSS, JavaScript, TypeScript**: This is the basic foundation for developing web interfaces. HTML provides the structure for the web page, CSS for styling, and                   JavaScript/TypeScript for dynamic interactions. TypeScript helps improve the quality of source code with static data type checking.
 -   **Vue.js 2 & 3**:Vue.js is a powerful and flexible JavaScript framework that helps develop dynamic web applications with ease of use and optimized performance.
 -   **Nuxt.js**: Là một framework dựa trên Vue.js, Nuxt.js giúp xây dựng các ứng dụng SSR (Server-Side Rendering) một cách dễ dàng và tối ưu hóa hiệu
     suất tải trang.
@@ -31,7 +31,7 @@ that we apply in our projects:
 
 -  **React Native**: Based on React, React Native allows developing mobile applications for both iOS and Android from a common source code base. This
 
-helps save time and development costs.
+   helps save time and development costs.
 
 - **Flutter**: Flutter is a framework by Google that helps develop mobile applications with high performance and smooth interfaces on both Android and iOS.
 
@@ -39,11 +39,11 @@ helps save time and development costs.
 
 - **Kotlin (Android)**: Kotlin is an official language of Android, designed to replace Java, helping to speed up development and reduce errors
 
-in Android applications.
+  in Android applications.
 
 ### 💻 Backend Development
 
--   **Java**: Java is a popular programming language for developing large-scale enterprise applications and powerful backend systems. With its cross-platform compatibility, Java is the top choice for distributed systems.
+-   **Java**: Java is a popular programming language for developing large-scale enterprise applications and powerful backend systems. With its cross-platform compatibility, Java is        the top choice for distributed systems.
 
 - **Node.js**: Node.js is a JavaScript runtime environment that helps build backend applications quickly and efficiently, especially APIs and large-scale network systems.
 
@@ -51,18 +51,18 @@ in Android applications.
 
 ### ☁️ Cloud & Infrastructure
 
--   **Server, VPS**: Solutions like server and VPS (Virtual Private Server) help host your applications on independent servers, providing greater flexibility and control than traditional hosting.
+-   **Server, VPS**: Solutions like server and VPS (Virtual Private Server) help host your applications on independent servers, providing greater flexibility and control than              traditional hosting.
 
-- **Google Cloud, AWS**: Popular cloud platforms like Google Cloud and AWS (Amazon Web Services) provide cloud computing services that make it easy to deploy, scale, and manage applications. Companies can leverage services like storage, database, compute, and networking to increase
-scalability and security.
+    - **Google Cloud, AWS**: Popular cloud platforms like Google Cloud and AWS (Amazon Web Services) provide cloud computing services that make it easy to deploy, scale, and manage          applications. Companies can leverage services like storage, database, compute, and networking to increase
+      scalability and security.
 
 ### 🚀 DevOps
 
--   **CI/CD (Continuous Integration/Continuous Deployment)**: CI/CD is a methodology that automates the process of testing, integrating, and deploying software. This ensures that software is tested and deployed quickly, minimizing errors and waiting times. With CI/CD, we can automate development tasks, from building source code to deploying to production.
+-   **CI/CD (Continuous Integration/Continuous Deployment)**: CI/CD is a methodology that automates the process of testing, integrating, and deploying software. This ensures that          software is tested and deployed quickly, minimizing errors and waiting times. With CI/CD, we can automate development tasks, from building source code to deploying to production.
 
 ### 🤖 AI & Machine Learning
 
-- **AI image processing**: We use artificial intelligence (AI) to process and analyze images, helping applications recognize and classify objects in images or videos. These applications can be used in areas such as healthcare, facial recognition, and smart transportation.
+- **AI image processing**: We use artificial intelligence (AI) to process and analyze images, helping applications recognize and classify objects in images or videos. These              applications can be used in areas such as healthcare, facial recognition, and smart transportation.
 ## Open Projects
 
 At **Sucodev**, we always encourage the community to contribute to our projects. All open source projects are shared here. You can
